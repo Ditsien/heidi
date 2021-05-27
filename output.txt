@@ -1,0 +1,9 @@
+Local IP address: 127.0.0.1
+OS: Darwin 19.6.0
+Used disk space: 10.45GB
+Available disk space: 351.47GB
+Total disk space: 465.63GB
+Total Memory: 16.00GB
+Available memory: 6.86GB
+Used memory: 8.99GB
+Percentage memory used: 57.1%
